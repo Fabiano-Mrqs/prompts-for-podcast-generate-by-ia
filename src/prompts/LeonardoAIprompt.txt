@@ -1,0 +1,17 @@
+Create a modern, futuristic podcast cover titled “Behind the Servers: The DevOps Journey with Ubuntu”.
+Show a sleek digital environment filled with glowing servers, abstract code lines, and data flow elements symbolizing DevOps automation.
+Add a subtle orange and purple color palette inspired by Ubuntu’s theme, with accents of deep blue and cyan for contrast.
+Include a human silhouette or professional figure interacting with holographic terminals, cloud icons, or network grids.
+The scene should evoke innovation, collaboration, and cutting-edge technology.
+Use cinematic lighting, depth of field, and clean composition to keep it elegant and easy to read as a podcast thumbnail.
+Display the podcast title in bold, futuristic typography at the center or lower third.
+
+Style: cyber-tech, minimalist, cinematic, semi-realistic, digital illustration, soft glow.
+Mood: inspiring, modern, intelligent.
+Aspect ratio: 1:1 (album cover).
+Quality: ultra-detailed, 8k, crisp, balanced lighting.
+
+🚫 Negative Prompt
+
+Negative Prompt:
+No extra text, no random words, no distorted faces, no logos, no brand trademarks, no blurry effects, no watermarks, no oversaturated colors, no cartoonish style, no anime style, no pixelation, no low-quality rendering, no overexposed lighting, no cluttered background.
